@@ -1,2 +1,2 @@
-# Learn.py
-A program to learn about python programmming.
+# TinkerHub Learn.py
+A program to learn python programming for beginners.
